@@ -1,5 +1,5 @@
 # template
-simple c++ template
-<h3> based on the cherno hazel project </h3>
-
+<h4> easy to work with visual studio template </h4>
 <p> compile location: `$(SolutionDir)bin\$(Configuration)\~$(Platform)\$(ProjectName)\` </p>
+
+![examp](https://github.com/quarzasiphix/screenshots/blob/main/template-example.png)
